@@ -7,6 +7,7 @@
  * @since Attitude 1.0
  */
 ?>
+// changed master copy
 
 <?php get_header(); ?>
 
